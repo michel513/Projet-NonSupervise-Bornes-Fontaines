@@ -1,0 +1,7 @@
+﻿regle,colonnes,effectif_touche,justification
+Dé-doublonnage strict,toutes,19,Lignes strictement identiques
+Harmonisation commune,commune,76,"Espaces, casse hétérogènes"
+Hors plage technique → NaN,toutes numériques,21,Valeurs dépassant les plages du dictionnaire
+Contrainte interruption > ouverture → NaN,interruption_h,0,Violation de la contrainte métier
+Imputation médiane,toutes numériques,208,"Médiane robuste aux valeurs extrêmes, conserve la distribution"
+Lignes >50% NaN,toutes numériques,0,Aucune ligne n'avait plus de 50% de manquants
